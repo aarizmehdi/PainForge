@@ -117,4 +117,7 @@
   html {
     @apply font-sans;
   }
+  ::selection {
+    @apply bg-orange-600/90 text-white;
+  }
 }
