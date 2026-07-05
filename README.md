@@ -1,7 +1,7 @@
 <div align="center">
   <img src="app/icon.svg" alt="PainForge Logo" width="140" height="140">
   
-  # 🩸 PainForge
+  # PainForge
   
   **Catch Real Pain. Forge Real Clients.**
   
